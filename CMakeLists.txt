@@ -11,7 +11,7 @@ set(SOURCE_FILES
     pack.c
     parse.c
     randutils.c
-    test_uuid.c
+#   test_uuid.c
     unpack.c
     unparse.c
     uuid_time.c
